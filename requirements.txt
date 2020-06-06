@@ -1,0 +1,11 @@
+pandas
+tqdm
+scikit-learn
+numpy
+pywt
+scipy
+tensorboard_logger
+lightgbm
+biosppy
+pyentrp
+catboost
