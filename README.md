@@ -1,4 +1,19 @@
-# hefei_ecg
+# 我的个人公众号
+我的公众号:**Gambler_Evolution**
+(分享个人在量化投资上的研究)
+
+ ![image](https://github.com/wbbhcb/hefei_ecg/blob/master/OTTO.jpg)
+
+**个人知乎**: https://www.zhihu.com/people/e-zhe-shi-wo/activities
+
+# OTTO Data Lab公众号
+**公众号id**: OTTODataLab
+
+分享数据挖掘等方面的知识。
+
+ ![image](https://github.com/wbbhcb/hefei_ecg/blob/master/Gambler_Evolution.jpg)
+ 
+# 代码说明
 **代码目录**
 
 >train 存放了训练的代码
